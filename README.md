@@ -101,16 +101,8 @@ Recomenda-se a continuidade do monitoramento dos custos e a exploração de novo
 
 ---
 
-## 📎 Anexos
-
-- Relatórios de custos gerados pelo AWS Cost Explorer  
-- Documentação oficial do Amazon S3 Intelligent-Tiering  
-- Configurações aplicadas no AWS Auto Scaling  
-
----
-
 ## ✍️ Autora
 
 **Jéssica Fernandes**  
-Estudante de Análise e Desenvolvimento de Dados  
+Estudante de Ciências da Computação
 Participante do programa **Santander 2025 - Ciência de Dados com Python (DIO)**  
